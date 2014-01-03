@@ -3,6 +3,8 @@
 #include<string.h>
 #include<math.h>
 
+// testing to MIPFGWC
+
 float *teta,*p;
 //float *anpha;
 int **rating_train,**rating_test,*matrix;
